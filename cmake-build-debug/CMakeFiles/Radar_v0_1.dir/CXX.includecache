@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Saul/Projects/LX/Radar_v0.1/main.cpp
+iostream
+-
+thread
+-
+utils/process/process.hpp
+C:/Users/Saul/Projects/LX/Radar_v0.1/utils/process/process.hpp
+utils/Vector2.hpp
+C:/Users/Saul/Projects/LX/Radar_v0.1/utils/Vector2.hpp
+
+C:/Users/Saul/Projects/LX/Radar_v0.1/utils/Vector2.hpp
+iostream
+-
+complex
+-
+
+C:/Users/Saul/Projects/LX/Radar_v0.1/utils/process/process.hpp
+Windows.h
+-
+memory
+-
+string
+-
+array
+-
+vector
+-
+
