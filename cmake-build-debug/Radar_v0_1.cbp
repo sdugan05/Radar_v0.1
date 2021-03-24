@@ -80,6 +80,24 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/Saul/Projects/LX/Radar_v0.1/Offsets.cpp">
+			<Option target="Radar_v0_1"/>
+		</Unit>
+		<Unit filename="C:/Users/Saul/Projects/LX/Radar_v0.1/Offsets.hpp">
+			<Option target="Radar_v0_1"/>
+		</Unit>
+		<Unit filename="C:/Users/Saul/Projects/LX/Radar_v0.1/Player.cpp">
+			<Option target="Radar_v0_1"/>
+		</Unit>
+		<Unit filename="C:/Users/Saul/Projects/LX/Radar_v0.1/Player.hpp">
+			<Option target="Radar_v0_1"/>
+		</Unit>
+		<Unit filename="C:/Users/Saul/Projects/LX/Radar_v0.1/Weapons.cpp">
+			<Option target="Radar_v0_1"/>
+		</Unit>
+		<Unit filename="C:/Users/Saul/Projects/LX/Radar_v0.1/Weapons.hpp">
+			<Option target="Radar_v0_1"/>
+		</Unit>
 		<Unit filename="C:/Users/Saul/Projects/LX/Radar_v0.1/main.cpp">
 			<Option target="Radar_v0_1"/>
 		</Unit>

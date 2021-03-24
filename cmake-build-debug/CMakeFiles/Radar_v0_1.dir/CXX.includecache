@@ -6,6 +6,20 @@
 
 #IncludeRegexTransform: 
 
+C:/Users/Saul/Projects/LX/Radar_v0.1/Offsets.hpp
+iostream
+-
+utils/process/process.hpp
+C:/Users/Saul/Projects/LX/Radar_v0.1/utils/process/process.hpp
+
+C:/Users/Saul/Projects/LX/Radar_v0.1/Player.hpp
+
+C:/Users/Saul/Projects/LX/Radar_v0.1/Weapons.hpp
+iostream
+-
+vector
+-
+
 C:/Users/Saul/Projects/LX/Radar_v0.1/main.cpp
 iostream
 -
@@ -15,6 +29,12 @@ utils/process/process.hpp
 C:/Users/Saul/Projects/LX/Radar_v0.1/utils/process/process.hpp
 utils/Vector2.hpp
 C:/Users/Saul/Projects/LX/Radar_v0.1/utils/Vector2.hpp
+Weapons.hpp
+C:/Users/Saul/Projects/LX/Radar_v0.1/Weapons.hpp
+Offsets.hpp
+C:/Users/Saul/Projects/LX/Radar_v0.1/Offsets.hpp
+Player.hpp
+C:/Users/Saul/Projects/LX/Radar_v0.1/Player.hpp
 
 C:/Users/Saul/Projects/LX/Radar_v0.1/utils/Vector2.hpp
 iostream

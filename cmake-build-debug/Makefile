@@ -142,6 +142,87 @@ Radar_v0_1/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Radar_v0_1.dir\build.make CMakeFiles/Radar_v0_1.dir/build
 .PHONY : Radar_v0_1/fast
 
+Offsets.obj: Offsets.cpp.obj
+
+.PHONY : Offsets.obj
+
+# target to build an object file
+Offsets.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Radar_v0_1.dir\build.make CMakeFiles/Radar_v0_1.dir/Offsets.cpp.obj
+.PHONY : Offsets.cpp.obj
+
+Offsets.i: Offsets.cpp.i
+
+.PHONY : Offsets.i
+
+# target to preprocess a source file
+Offsets.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Radar_v0_1.dir\build.make CMakeFiles/Radar_v0_1.dir/Offsets.cpp.i
+.PHONY : Offsets.cpp.i
+
+Offsets.s: Offsets.cpp.s
+
+.PHONY : Offsets.s
+
+# target to generate assembly for a file
+Offsets.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Radar_v0_1.dir\build.make CMakeFiles/Radar_v0_1.dir/Offsets.cpp.s
+.PHONY : Offsets.cpp.s
+
+Player.obj: Player.cpp.obj
+
+.PHONY : Player.obj
+
+# target to build an object file
+Player.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Radar_v0_1.dir\build.make CMakeFiles/Radar_v0_1.dir/Player.cpp.obj
+.PHONY : Player.cpp.obj
+
+Player.i: Player.cpp.i
+
+.PHONY : Player.i
+
+# target to preprocess a source file
+Player.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Radar_v0_1.dir\build.make CMakeFiles/Radar_v0_1.dir/Player.cpp.i
+.PHONY : Player.cpp.i
+
+Player.s: Player.cpp.s
+
+.PHONY : Player.s
+
+# target to generate assembly for a file
+Player.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Radar_v0_1.dir\build.make CMakeFiles/Radar_v0_1.dir/Player.cpp.s
+.PHONY : Player.cpp.s
+
+Weapons.obj: Weapons.cpp.obj
+
+.PHONY : Weapons.obj
+
+# target to build an object file
+Weapons.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Radar_v0_1.dir\build.make CMakeFiles/Radar_v0_1.dir/Weapons.cpp.obj
+.PHONY : Weapons.cpp.obj
+
+Weapons.i: Weapons.cpp.i
+
+.PHONY : Weapons.i
+
+# target to preprocess a source file
+Weapons.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Radar_v0_1.dir\build.make CMakeFiles/Radar_v0_1.dir/Weapons.cpp.i
+.PHONY : Weapons.cpp.i
+
+Weapons.s: Weapons.cpp.s
+
+.PHONY : Weapons.s
+
+# target to generate assembly for a file
+Weapons.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Radar_v0_1.dir\build.make CMakeFiles/Radar_v0_1.dir/Weapons.cpp.s
+.PHONY : Weapons.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -232,6 +313,15 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... Radar_v0_1
+	@echo ... Offsets.obj
+	@echo ... Offsets.i
+	@echo ... Offsets.s
+	@echo ... Player.obj
+	@echo ... Player.i
+	@echo ... Player.s
+	@echo ... Weapons.obj
+	@echo ... Weapons.i
+	@echo ... Weapons.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

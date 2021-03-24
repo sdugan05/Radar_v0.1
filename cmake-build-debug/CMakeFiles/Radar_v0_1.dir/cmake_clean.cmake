@@ -1,4 +1,7 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/Radar_v0_1.dir/Offsets.cpp.obj"
+  "CMakeFiles/Radar_v0_1.dir/Player.cpp.obj"
+  "CMakeFiles/Radar_v0_1.dir/Weapons.cpp.obj"
   "CMakeFiles/Radar_v0_1.dir/main.cpp.obj"
   "CMakeFiles/Radar_v0_1.dir/utils/Vector2.cpp.obj"
   "CMakeFiles/Radar_v0_1.dir/utils/process/process.cpp.obj"

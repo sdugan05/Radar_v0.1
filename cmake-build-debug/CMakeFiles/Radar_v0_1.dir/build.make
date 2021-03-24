@@ -115,11 +115,53 @@ CMakeFiles/Radar_v0_1.dir/utils/Vector2.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Radar_v0_1.dir/utils/Vector2.cpp.s"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Saul\Projects\LX\Radar_v0.1\utils\Vector2.cpp -o CMakeFiles\Radar_v0_1.dir\utils\Vector2.cpp.s
 
+CMakeFiles/Radar_v0_1.dir/Weapons.cpp.obj: CMakeFiles/Radar_v0_1.dir/flags.make
+CMakeFiles/Radar_v0_1.dir/Weapons.cpp.obj: ../Weapons.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Saul\Projects\LX\Radar_v0.1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Radar_v0_1.dir/Weapons.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Radar_v0_1.dir\Weapons.cpp.obj -c C:\Users\Saul\Projects\LX\Radar_v0.1\Weapons.cpp
+
+CMakeFiles/Radar_v0_1.dir/Weapons.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Radar_v0_1.dir/Weapons.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Saul\Projects\LX\Radar_v0.1\Weapons.cpp > CMakeFiles\Radar_v0_1.dir\Weapons.cpp.i
+
+CMakeFiles/Radar_v0_1.dir/Weapons.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Radar_v0_1.dir/Weapons.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Saul\Projects\LX\Radar_v0.1\Weapons.cpp -o CMakeFiles\Radar_v0_1.dir\Weapons.cpp.s
+
+CMakeFiles/Radar_v0_1.dir/Offsets.cpp.obj: CMakeFiles/Radar_v0_1.dir/flags.make
+CMakeFiles/Radar_v0_1.dir/Offsets.cpp.obj: ../Offsets.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Saul\Projects\LX\Radar_v0.1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Radar_v0_1.dir/Offsets.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Radar_v0_1.dir\Offsets.cpp.obj -c C:\Users\Saul\Projects\LX\Radar_v0.1\Offsets.cpp
+
+CMakeFiles/Radar_v0_1.dir/Offsets.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Radar_v0_1.dir/Offsets.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Saul\Projects\LX\Radar_v0.1\Offsets.cpp > CMakeFiles\Radar_v0_1.dir\Offsets.cpp.i
+
+CMakeFiles/Radar_v0_1.dir/Offsets.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Radar_v0_1.dir/Offsets.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Saul\Projects\LX\Radar_v0.1\Offsets.cpp -o CMakeFiles\Radar_v0_1.dir\Offsets.cpp.s
+
+CMakeFiles/Radar_v0_1.dir/Player.cpp.obj: CMakeFiles/Radar_v0_1.dir/flags.make
+CMakeFiles/Radar_v0_1.dir/Player.cpp.obj: ../Player.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Saul\Projects\LX\Radar_v0.1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/Radar_v0_1.dir/Player.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Radar_v0_1.dir\Player.cpp.obj -c C:\Users\Saul\Projects\LX\Radar_v0.1\Player.cpp
+
+CMakeFiles/Radar_v0_1.dir/Player.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Radar_v0_1.dir/Player.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Saul\Projects\LX\Radar_v0.1\Player.cpp > CMakeFiles\Radar_v0_1.dir\Player.cpp.i
+
+CMakeFiles/Radar_v0_1.dir/Player.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Radar_v0_1.dir/Player.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Saul\Projects\LX\Radar_v0.1\Player.cpp -o CMakeFiles\Radar_v0_1.dir\Player.cpp.s
+
 # Object files for target Radar_v0_1
 Radar_v0_1_OBJECTS = \
 "CMakeFiles/Radar_v0_1.dir/main.cpp.obj" \
 "CMakeFiles/Radar_v0_1.dir/utils/process/process.cpp.obj" \
-"CMakeFiles/Radar_v0_1.dir/utils/Vector2.cpp.obj"
+"CMakeFiles/Radar_v0_1.dir/utils/Vector2.cpp.obj" \
+"CMakeFiles/Radar_v0_1.dir/Weapons.cpp.obj" \
+"CMakeFiles/Radar_v0_1.dir/Offsets.cpp.obj" \
+"CMakeFiles/Radar_v0_1.dir/Player.cpp.obj"
 
 # External object files for target Radar_v0_1
 Radar_v0_1_EXTERNAL_OBJECTS =
@@ -127,11 +169,14 @@ Radar_v0_1_EXTERNAL_OBJECTS =
 Radar_v0_1.exe: CMakeFiles/Radar_v0_1.dir/main.cpp.obj
 Radar_v0_1.exe: CMakeFiles/Radar_v0_1.dir/utils/process/process.cpp.obj
 Radar_v0_1.exe: CMakeFiles/Radar_v0_1.dir/utils/Vector2.cpp.obj
+Radar_v0_1.exe: CMakeFiles/Radar_v0_1.dir/Weapons.cpp.obj
+Radar_v0_1.exe: CMakeFiles/Radar_v0_1.dir/Offsets.cpp.obj
+Radar_v0_1.exe: CMakeFiles/Radar_v0_1.dir/Player.cpp.obj
 Radar_v0_1.exe: CMakeFiles/Radar_v0_1.dir/build.make
 Radar_v0_1.exe: CMakeFiles/Radar_v0_1.dir/linklibs.rsp
 Radar_v0_1.exe: CMakeFiles/Radar_v0_1.dir/objects1.rsp
 Radar_v0_1.exe: CMakeFiles/Radar_v0_1.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Saul\Projects\LX\Radar_v0.1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable Radar_v0_1.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Saul\Projects\LX\Radar_v0.1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable Radar_v0_1.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\Radar_v0_1.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
